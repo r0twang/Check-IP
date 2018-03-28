@@ -1,0 +1,6 @@
+C:\Dropzone\gym\checkip\checkIP\checkIP\bin\Debug\checkIP.exe.config
+C:\Dropzone\gym\checkip\checkIP\checkIP\bin\Debug\checkIP.exe
+C:\Dropzone\gym\checkip\checkIP\checkIP\bin\Debug\checkIP.pdb
+C:\Dropzone\gym\checkip\checkIP\checkIP\obj\Debug\checkIP.csprojResolveAssemblyReference.cache
+C:\Dropzone\gym\checkip\checkIP\checkIP\obj\Debug\checkIP.exe
+C:\Dropzone\gym\checkip\checkIP\checkIP\obj\Debug\checkIP.pdb
